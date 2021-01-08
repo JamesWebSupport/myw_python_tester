@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="48fbc40d-39ba-4bd1-aeb1-61d18fa350aa" name="Default Changelist" comment="jan 7th view-list version&#10;add home app&#10;home page is worked&#10;commit One">
+    <list default="true" id="48fbc40d-39ba-4bd1-aeb1-61d18fa350aa" name="Default Changelist" comment="&#10;commit Three">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/home/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/home/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -133,7 +134,35 @@
       <option name="project" value="LOCAL" />
       <updated>1610066176265</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="jan 7th view-list version&#10;add home app&#10;home page is worked&#10;commit One">
+      <created>1610066245208</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1610066245208</updated>
+    </task>
+    <task id="LOCAL-00009" summary="&#10;commit feature">
+      <created>1610066478064</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1610066478064</updated>
+    </task>
+    <task id="LOCAL-00010" summary="&#10;commit feature&#10;commit feature 21">
+      <created>1610113546049</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1610113546049</updated>
+    </task>
+    <task id="LOCAL-00011" summary="&#10;commit Three">
+      <created>1610114414287</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1610114414287</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -156,6 +185,9 @@
     <MESSAGE value="jan 7th view-list version&#10;add home app" />
     <MESSAGE value="jan 7th view-list version&#10;add home app&#10;home page is worked" />
     <MESSAGE value="jan 7th view-list version&#10;add home app&#10;home page is worked&#10;commit One" />
-    <option name="LAST_COMMIT_MESSAGE" value="jan 7th view-list version&#10;add home app&#10;home page is worked&#10;commit One" />
+    <MESSAGE value="&#10;commit feature" />
+    <MESSAGE value="&#10;commit feature&#10;commit feature 21" />
+    <MESSAGE value="&#10;commit Three" />
+    <option name="LAST_COMMIT_MESSAGE" value="&#10;commit Three" />
   </component>
 </project>
